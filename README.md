@@ -1,4 +1,4 @@
-# AndroidApp
+# Health Style #
 
 Group implemented an Android app with cloud backup and sensor functions using Java and Kotlin.
 Utilized Espresso framework and instrumented tests to test and optimize user interface. 
